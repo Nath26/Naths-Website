@@ -1,4 +1,4 @@
-title = "Naths Excellent Website"
+title = "Nath's Excellent Website"
 baseURL = "https://nathswebsite.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
@@ -18,9 +18,9 @@ enableRobotsTXT = true
 
 [params]
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  facebook = "https://www.facebook.com/GenerateUK"
+  twitter = "https://twitter.com/generateuk"
+  instagram = "https://www.instagram.com/generate_uk"
   youtube = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
